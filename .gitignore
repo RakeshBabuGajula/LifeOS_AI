@@ -1,0 +1,30 @@
+# Python
+.venv/
+api/venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+.env
+api/.env
+
+# Node
+web/node_modules/
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Next.js
+web/.next/
+.next/
+out/
+build/
+dist/
+
+# System
+.DS_Store
+Thumbs.db
