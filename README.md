@@ -1,5 +1,4 @@
 # 🚀 LifeOS AI
-<img width="1536" height="1024" alt="LifoOs Thumbnail" src="https://github.com/user-attachments/assets/bc908599-09f6-4df6-b050-d9cf50960fe7" />
 
 **LifeOS AI** is a full-stack AI-powered platform that helps users make smarter career decisions by analyzing their skills, identifying gaps, and providing personalized roadmaps along with productivity and burnout insights.
 
